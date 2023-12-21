@@ -10,5 +10,3 @@ The primary aim of this project was to develop a robust predictive system capabl
 ## Future Enhancements:
 Include additional features for a more comprehensive weight management system.
 Explore other machine learning algorithms for comparison and performance evaluation.
-## Explore the Code:
-Dive into the detailed codebase to explore the algorithms, model architectures, and system functionalities utilized for weight gain prediction.
