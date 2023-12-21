@@ -3,7 +3,7 @@
 ## Overview:
 This project showcases a comprehensive weight gain prediction system using machine learning techniques. Leveraging Python's powerful libraries such as Pandas, Scikit-learn, and TensorFlow, the model accurately estimates weight gain based on multiple factors, including age, gender, exercise intensity, and weather conditions.
 
-## Key Features:
+# Key Features:
 # Multi-Algorithm Approach: 
 Employed Linear Regression and a custom TensorFlow neural network for accurate weight gain predictions.
 # Personalized Recommendations: 
